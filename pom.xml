@@ -21,34 +21,19 @@
     <!--添加依赖的jar包-->
     <dependencies>
 
-        <!-- https://mvnrepository.com/artifact/org.apache.flink/flink-streaming-java -->
-        <dependency>
-            <groupId>org.apache.flink</groupId>
-            <artifactId>flink-streaming-java_2.12</artifactId>
-            <version>1.8.0</version>
-            <scope>provided</scope>
-        </dependency>
-
-
         <!-- java reactor 异步-->
-        <dependency>
-            <groupId>io.reactivex.rxjava2</groupId>
-            <artifactId>rxjava</artifactId>
-            <version>2.2.10</version>
-        </dependency>
-
-        <!-- reactor -->
-        <!-- https://mvnrepository.com/artifact/io.projectreactor/reactor-core -->
+        <!-- https://mvnrepository.com/artifact/io.reactivex/rxjava -->
         <dependency>
             <groupId>io.projectreactor</groupId>
             <artifactId>reactor-core</artifactId>
-            <version>2.0.8.RELEASE</version>
+            <version>3.1.4.RELEASE</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/io.projectreactor/reactor-stream -->
+
         <dependency>
             <groupId>io.projectreactor</groupId>
-            <artifactId>reactor-stream</artifactId>
-            <version>2.0.8.RELEASE</version>
+            <artifactId>reactor-test</artifactId>
+            <version>3.1.4.RELEASE</version>
+            <scope>test</scope>
         </dependency>
 
         <!-- Guava的ListeningExecutorService装饰线程池 -->
@@ -71,6 +56,12 @@
             <groupId>cglib</groupId>
             <artifactId>cglib</artifactId>
             <version>3.2.5</version>
+        </dependency>
+        <dependency>
+            <groupId>io.projectreactor</groupId>
+            <artifactId>reactor-test</artifactId>
+            <version>3.1.4.RELEASE</version>
+            <scope>compile</scope>
         </dependency>
 
     </dependencies>
