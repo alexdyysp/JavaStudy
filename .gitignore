@@ -1,6 +1,7 @@
 
 .idea
 .idea/
-.iml
+*.iml
 target
 out
+
