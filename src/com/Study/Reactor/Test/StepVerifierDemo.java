@@ -10,12 +10,12 @@ public class StepVerifierDemo {
     @Test
     public void testAppendBoomError(){
 
-        Flux<String> source = Flux.just("foo", "bar");
-        StepVerifier.create(
-                .appendBoomError(source))
-                .expectNext("foo")
-                .expectNext("bar")
-                .expectErrorMessage("boom")
-                .verify();
+//        Flux<String> source = Flux.just("foo", "bar");
+//        StepVerifier.create(
+//                .appendBoomError(source))
+//                .expectNext("foo")
+//                .expectNext("bar")
+//                .expectErrorMessage("boom")
+//                .verify();
     }
 }
