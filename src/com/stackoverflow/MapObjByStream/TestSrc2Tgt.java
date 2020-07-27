@@ -1,8 +1,5 @@
 package com.stackoverflow.MapObjByStream;
 
-import javafx.util.Pair;
-
-import java.awt.*;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
