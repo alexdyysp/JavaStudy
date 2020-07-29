@@ -1,7 +1,11 @@
 
 .idea
-.idea/
+*.xml
 *.iml
+
+.iml
+
 target
+
 out
 
