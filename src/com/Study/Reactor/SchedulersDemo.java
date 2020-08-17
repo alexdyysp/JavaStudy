@@ -32,5 +32,17 @@ public class SchedulersDemo {
                 .subscribe(v -> System.out.println("GOT VALUE"),
                         e -> System.out.println("ERROR: " + e));
 
+        System.out.println("DEMO: subscribeOn after publishOn");
+        Flux.just("a", "b", "c") //this is where subscription triggers data production
+                //this is influenced by subscribeOn
+                .doOnNext(v -> System.out.println("before publishOn: " + Thread.currentThread().getName() + " " + v))
+                .publishOn(Schedulers.elastic())
+                //the rest is influenced by publishOn
+                //.doOnNext(v -> System.out.println("after publishOn: " + Thread.currentThread().getName() + " " + v))
+                .subscribeOn(Schedulers.parallel())
+                .subscribe(v -> System.out.println("received " + v + " on " + Thread.currentThread().getName() + " " + v));
+
+        Thread.sleep(5000);
+
     }
 }
