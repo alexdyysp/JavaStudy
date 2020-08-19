@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcaaba5a-14a5-4e38-b542-13ab7ae0b142" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="dcaaba5a-14a5-4e38-b542-13ab7ae0b142" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Study/Basic/Hash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Study/Basic/Hash.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,116 +32,11 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="JavaStudy" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Study/lambda/conertA2B/StreamConvert.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Study/Stream/MiddelStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Study/Stream/ParallelStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Study/Stream/StreamDemo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Study/Stream/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Study/Stream/StreamDemo2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Study/Stream/Readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="281">
-                <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/stackoverflow/bar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" selection-start-line="4" selection-end-line="17" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Study/Stream/CreateStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Study/Stream/FInalStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -152,118 +53,20 @@
       <dir>D:\IT\Java\JavaStudy\src\com\Study\Responselink</dir>
     </dirStrings>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/Study/Stream/FInalStream.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/Stream/ParallelStream.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/Stream/Collection.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/Stream/Readme.md" />
-        <option value="$PROJECT_DIR$/src/com/Study/WebFlux/ReadMe.md" />
-        <option value="$PROJECT_DIR$/src/com/Study/Basic/Hash.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/Basic/lc.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/Thread/run1.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/Thread/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/snowFlake/SnowFlake.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/ObservePattern/Observer.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/ObservePattern/Subject.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/ObservePattern/PlayerGround.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/ObservePattern/PlayerB.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/ObservePattern/PlayerA.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/ObservePattern/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/ObservePattern/ReadMe.md" />
-        <option value="$PROJECT_DIR$/src/com/question/ased.java" />
-        <option value="$PROJECT_DIR$/src/com/question/upandlow/Counter.java" />
-        <option value="$PROJECT_DIR$/src/com/question/upandlow/Spike.java" />
-        <option value="$PROJECT_DIR$/src/com/question/transform/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/com/question/transform/Car.java" />
-        <option value="$PROJECT_DIR$/src/com/question/UpDownCasting/Car.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/Thread/concurrentAtomicPackage/TestCyclicBarrie.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/Thread/concurrentAtomicPackage/TestCountDownLatch.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/Thread/TestThreadPool/cachethread.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/Thread/TestThreadPool/schedulethread.java" />
-        <option value="$PROJECT_DIR$/src/com/leetcode/单词的压缩编码.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/StatePattern/DispenseOutState.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/StatePattern/DispenseState.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/StatePattern/RaffleActivity.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/StatePattern/NoRaffleState.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/StatePattern/State.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/StatePattern/CanRaffleState.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/StatePattern/ClientTest.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/StrategyPattern/Duck.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/StrategyPattern/FlyBehavior.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/StrategyPattern/GoodFlyBehavior.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/StrategyPattern/Notflybehavior.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/StrategyPattern/ToyDuck.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/StrategyPattern/Badflybehavior.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/StrategyPattern/Quackbehavior.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/StrategyPattern/WildDuck.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/StrategyPattern/PekingDuck.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/DesignPattern/StrategyPattern/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/lambda/conertA2B/A.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/lambda/conertA2B/B.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/Stream/MiddelStream.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/lambda/conertA2B/StreamConvert.java" />
-        <option value="$PROJECT_DIR$/src/com/Study/Stream/test.java" />
-        <option value="$PROJECT_DIR$/src/com/stackoverflow/bar.java" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
+  <component name="ProjectId" id="1fg7Nu1wleYmYPIJXillalIAERi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1028" />
-    <option name="y" value="17" />
-    <option name="width" value="1645" />
-    <option name="height" value="1040" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="stackoverflow" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -276,6 +79,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -289,25 +93,13 @@
       <recent name="D:\IT\Java\JavaStudy\src\com\Study\DesignPattern\ChainOfResponsibility" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.bar">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Study.DesignPattern.StrategyPattern.Client" />
+  <component name="RunManager" selected="Application.Hash">
+    <configuration name="ConvertIntArryToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackoverflow.easyQuestion.ConvertIntArryToBinary" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Study.DesignPattern.StrategyPattern.*" />
+          <option name="PATTERN" value="com.stackoverflow.easyQuestion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -315,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Study.DesignPattern.StatePattern.ClientTest" />
+    <configuration name="Hash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Study.Basic.Hash" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Study.DesignPattern.StatePattern.*" />
+          <option name="PATTERN" value="com.Study.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -328,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Study.lambda.conertA2B.StreamConvert" />
+    <configuration name="ObjectArrayAnd3dot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Study.Basic.ObjectArrayAnd3dot" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Study.lambda.conertA2B.*" />
+          <option name="PATTERN" value="com.Study.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackoverflow.bar" />
+    <configuration name="SchedulersDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Study.Reactor.SchedulersDemo" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stackoverflow.*" />
+          <option name="PATTERN" value="com.Study.Reactor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Study.Stream.test" />
+    <configuration name="ThreadX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackoverflow.easyQuestion.ThreadX" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Study.Stream.*" />
+          <option name="PATTERN" value="com.stackoverflow.easyQuestion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -369,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.bar" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.StreamConvert" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.ClientTest" />
+        <item itemvalue="Application.Hash" />
+        <item itemvalue="Application.ObjectArrayAnd3dot" />
+        <item itemvalue="Application.SchedulersDemo" />
+        <item itemvalue="Application.ThreadX" />
+        <item itemvalue="Application.ConvertIntArryToBinary" />
       </list>
     </recent_temporary>
   </component>
@@ -413,11 +205,25 @@
       <workItem from="1594740155865" duration="1828000" />
       <workItem from="1594996727910" duration="790000" />
       <workItem from="1595048727148" duration="1093000" />
+      <workItem from="1596627845865" duration="782000" />
+      <workItem from="1596942547620" duration="1599000" />
+      <workItem from="1596950263090" duration="5974000" />
+      <workItem from="1596965553931" duration="1601000" />
+      <workItem from="1597112990612" duration="163000" />
+      <workItem from="1597116147091" duration="589000" />
+      <workItem from="1597238898163" duration="370000" />
+      <workItem from="1597250497502" duration="634000" />
+      <workItem from="1597286122035" duration="983000" />
+      <workItem from="1597323969570" duration="22000" />
+      <workItem from="1597404733159" duration="309000" />
+      <workItem from="1597503767073" duration="855000" />
+      <workItem from="1597562390303" duration="607000" />
+      <workItem from="1597637201699" duration="1009000" />
+      <workItem from="1597670556632" duration="551000" />
+      <workItem from="1597760715687" duration="404000" />
+      <workItem from="1597804973695" duration="1328000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83117000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -428,487 +234,50 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49787837" visible="true" weight="0.20710456" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5021216" side_tool="true" weight="0.23525469" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5417256" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32956153" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32956153" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3281471" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.3297587" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1769437" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31966054" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32956153" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2565" y="314" key="#com.intellij.ide.util.MemberChooser" timestamp="1597805156736">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state x="2565" y="314" key="#com.intellij.ide.util.MemberChooser/1792.63.1920.1057/56.23.1736.1097@1792.63.1920.1057" timestamp="1597805156736" />
+    <state width="1878" height="282" key="GridCell.Tab.0.bottom" timestamp="1597805294422">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="282" key="GridCell.Tab.0.bottom/1792.63.1920.1057/56.23.1736.1097@1792.63.1920.1057" timestamp="1597805294422" />
+    <state width="1950" height="275" key="GridCell.Tab.0.bottom/56.23.1992.1257@56.23.1992.1257" timestamp="1597565178639" />
+    <state width="1878" height="282" key="GridCell.Tab.0.center" timestamp="1597805294421">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="282" key="GridCell.Tab.0.center/1792.63.1920.1057/56.23.1736.1097@1792.63.1920.1057" timestamp="1597805294421" />
+    <state width="1950" height="275" key="GridCell.Tab.0.center/56.23.1992.1257@56.23.1992.1257" timestamp="1597565178638" />
+    <state width="1878" height="282" key="GridCell.Tab.0.left" timestamp="1597805294421">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="282" key="GridCell.Tab.0.left/1792.63.1920.1057/56.23.1736.1097@1792.63.1920.1057" timestamp="1597805294421" />
+    <state width="1950" height="275" key="GridCell.Tab.0.left/56.23.1992.1257@56.23.1992.1257" timestamp="1597565178638" />
+    <state width="1878" height="282" key="GridCell.Tab.0.right" timestamp="1597805294422">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="282" key="GridCell.Tab.0.right/1792.63.1920.1057/56.23.1736.1097@1792.63.1920.1057" timestamp="1597805294422" />
+    <state width="1950" height="275" key="GridCell.Tab.0.right/56.23.1992.1257@56.23.1992.1257" timestamp="1597565178639" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Study/Thread/run1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/Thread/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/DesignPattern/ObservePattern/PlayerGround.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/question/UpDownCasting/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/CyclicBarrier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2347">
-          <caret line="138" column="13" selection-start-line="138" selection-start-column="13" selection-end-line="138" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="214" column="29" selection-start-line="214" selection-start-column="29" selection-end-line="214" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/ExecutorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/Thread/concurrentAtomicPackage/TestCyclicBarrie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/Thread/concurrentAtomicPackage/TestCountDownLatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/Thread/TestThreadPool/cachethread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="20" selection-start-line="20" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leetcode/单.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Objects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="200" column="24" selection-start-line="200" selection-start-column="24" selection-end-line="200" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/Thread/TestThreadPool/schedulethread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="117" column="11" selection-start-line="117" selection-start-column="11" selection-end-line="117" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="3799" column="34" lean-forward="true" selection-start-line="3799" selection-start-column="34" selection-end-line="3799" selection-end-column="34" />
-          <folding>
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-            <element signature="e#177353#177354#0" expanded="true" />
-            <element signature="e#177410#177411#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="621" column="15" selection-start-line="621" selection-start-column="15" selection-end-line="621" selection-end-column="15" />
-          <folding>
-            <element signature="e#22786#22787#0" expanded="true" />
-            <element signature="e#22821#22822#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leetcode/单词的压缩编码.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/question/123" />
-    <entry file="file://$PROJECT_DIR$/src/com/Study/DesignPattern/ChainOfResponsibility/AbstractLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/DesignPattern/ChainOfResponsibility/chain_pattern_uml_diagram.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/DesignPattern/StatePattern/CanRaffleState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/DesignPattern/StatePattern/ClientTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/DesignPattern/StatePattern/DispenseOutState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/DesignPattern/StatePattern/DispenseState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/DesignPattern/StatePattern/NoRaffleState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/DesignPattern/StatePattern/RaffleActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/DesignPattern/StatePattern/State.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/DesignPattern/StrategyPattern/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/DesignPattern/StrategyPattern/Quackbehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/DesignPattern/StrategyPattern/FlyBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/DesignPattern/StrategyPattern/GoodFlyBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/DesignPattern/StrategyPattern/Notflybehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/DesignPattern/StrategyPattern/PekingDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-          <folding>
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#485#486#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/DesignPattern/StrategyPattern/ToyDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#106#107#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/DesignPattern/StrategyPattern/WildDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding>
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/DesignPattern/StrategyPattern/Badflybehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/Stream/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/DesignPattern/StrategyPattern/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/lambda/CurryDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/lambda/conertA2B/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/lambda/conertA2B/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/lambda/conertA2B/StreamConvert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/Stream/MiddelStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/Stream/ParallelStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/Stream/StreamDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/Stream/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/Stream/StreamDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/Stream/CreateStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/Stream/FInalStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Study/Stream/Readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="281">
-            <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/stackoverflow/bar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" selection-start-line="4" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
