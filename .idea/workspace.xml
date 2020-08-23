@@ -6,9 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcaaba5a-14a5-4e38-b542-13ab7ae0b142" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Study/Reactor/Practice/RecommandList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Study/Reactor/Practice/RecommandReactive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Study/Reactor/Practice/RecommandService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Study/Reactor/Practice/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Study/Basic/Hash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Study/Basic/Hash.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +82,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -93,13 +95,13 @@
       <recent name="D:\IT\Java\JavaStudy\src\com\Study\DesignPattern\ChainOfResponsibility" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Hash">
-    <configuration name="ConvertIntArryToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackoverflow.easyQuestion.ConvertIntArryToBinary" />
+  <component name="RunManager" selected="Application.RecommandService">
+    <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Study.Reactor.Practice.ArrayList" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stackoverflow.easyQuestion.*" />
+          <option name="PATTERN" value="com.Study.Reactor.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectArrayAnd3dot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Study.Basic.ObjectArrayAnd3dot" />
+    <configuration name="RecommandList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Study.Reactor.Practice.RecommandList" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Study.Basic.*" />
+          <option name="PATTERN" value="com.Study.Reactor.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SchedulersDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Study.Reactor.SchedulersDemo" />
+    <configuration name="RecommandService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Study.Reactor.Practice.RecommandService" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Study.Reactor.*" />
+          <option name="PATTERN" value="com.Study.Reactor.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackoverflow.easyQuestion.ThreadX" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Study.Json.Test" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stackoverflow.easyQuestion.*" />
+          <option name="PATTERN" value="com.Study.Json.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecommandService" />
+        <item itemvalue="Application.RecommandList" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ArrayList" />
         <item itemvalue="Application.Hash" />
-        <item itemvalue="Application.ObjectArrayAnd3dot" />
-        <item itemvalue="Application.SchedulersDemo" />
-        <item itemvalue="Application.ThreadX" />
-        <item itemvalue="Application.ConvertIntArryToBinary" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +223,9 @@
       <workItem from="1597637201699" duration="1009000" />
       <workItem from="1597670556632" duration="551000" />
       <workItem from="1597760715687" duration="404000" />
-      <workItem from="1597804973695" duration="1328000" />
+      <workItem from="1597804973695" duration="1495000" />
+      <workItem from="1598009221306" duration="4836000" />
+      <workItem from="1598107739709" duration="2067000" />
     </task>
     <servers />
   </component>
@@ -250,131 +254,42 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2565" y="314" key="#com.intellij.ide.util.MemberChooser" timestamp="1597805156736">
+    <state x="2240" y="173" key="#Project_Structure" timestamp="1598017723204">
       <screen x="1792" y="63" width="1920" height="1057" />
     </state>
-    <state x="2565" y="314" key="#com.intellij.ide.util.MemberChooser/1792.63.1920.1057/56.23.1736.1097@1792.63.1920.1057" timestamp="1597805156736" />
-    <state width="1878" height="282" key="GridCell.Tab.0.bottom" timestamp="1597805294422">
-      <screen x="1792" y="63" width="1920" height="1057" />
+    <state x="2240" y="173" key="#Project_Structure/1792.63.1920.1057/56.23.1736.1097@1792.63.1920.1057" timestamp="1598017723204" />
+    <state x="825" y="304" key="#com.intellij.ide.util.MemberChooser" timestamp="1598109227120">
+      <screen x="0" y="0" width="2048" height="1280" />
     </state>
-    <state width="1878" height="282" key="GridCell.Tab.0.bottom/1792.63.1920.1057/56.23.1736.1097@1792.63.1920.1057" timestamp="1597805294422" />
-    <state width="1950" height="275" key="GridCell.Tab.0.bottom/56.23.1992.1257@56.23.1992.1257" timestamp="1597565178639" />
-    <state width="1878" height="282" key="GridCell.Tab.0.center" timestamp="1597805294421">
-      <screen x="1792" y="63" width="1920" height="1057" />
+    <state x="825" y="304" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1280@0.0.2048.1280" timestamp="1598109227120" />
+    <state x="2565" y="314" key="#com.intellij.ide.util.MemberChooser/1792.63.1920.1057/56.23.1736.1097@1792.63.1920.1057" timestamp="1598010483507" />
+    <state width="1950" height="282" key="GridCell.Tab.0.bottom" timestamp="1598116553653">
+      <screen x="56" y="23" width="1992" height="1257" />
     </state>
-    <state width="1878" height="282" key="GridCell.Tab.0.center/1792.63.1920.1057/56.23.1736.1097@1792.63.1920.1057" timestamp="1597805294421" />
-    <state width="1950" height="275" key="GridCell.Tab.0.center/56.23.1992.1257@56.23.1992.1257" timestamp="1597565178638" />
-    <state width="1878" height="282" key="GridCell.Tab.0.left" timestamp="1597805294421">
-      <screen x="1792" y="63" width="1920" height="1057" />
+    <state width="1325" height="282" key="GridCell.Tab.0.bottom/0.0.2048.1280@0.0.2048.1280" timestamp="1598109271894" />
+    <state width="1878" height="282" key="GridCell.Tab.0.bottom/1792.63.1920.1057/56.23.1736.1097@1792.63.1920.1057" timestamp="1598018060451" />
+    <state width="1950" height="282" key="GridCell.Tab.0.bottom/56.23.1992.1257@56.23.1992.1257" timestamp="1598116553653" />
+    <state width="1950" height="282" key="GridCell.Tab.0.center" timestamp="1598116553653">
+      <screen x="56" y="23" width="1992" height="1257" />
     </state>
-    <state width="1878" height="282" key="GridCell.Tab.0.left/1792.63.1920.1057/56.23.1736.1097@1792.63.1920.1057" timestamp="1597805294421" />
-    <state width="1950" height="275" key="GridCell.Tab.0.left/56.23.1992.1257@56.23.1992.1257" timestamp="1597565178638" />
-    <state width="1878" height="282" key="GridCell.Tab.0.right" timestamp="1597805294422">
-      <screen x="1792" y="63" width="1920" height="1057" />
+    <state width="1325" height="282" key="GridCell.Tab.0.center/0.0.2048.1280@0.0.2048.1280" timestamp="1598109271893" />
+    <state width="1878" height="282" key="GridCell.Tab.0.center/1792.63.1920.1057/56.23.1736.1097@1792.63.1920.1057" timestamp="1598018060450" />
+    <state width="1950" height="282" key="GridCell.Tab.0.center/56.23.1992.1257@56.23.1992.1257" timestamp="1598116553653" />
+    <state width="1950" height="282" key="GridCell.Tab.0.left" timestamp="1598116553652">
+      <screen x="56" y="23" width="1992" height="1257" />
     </state>
-    <state width="1878" height="282" key="GridCell.Tab.0.right/1792.63.1920.1057/56.23.1736.1097@1792.63.1920.1057" timestamp="1597805294422" />
-    <state width="1950" height="275" key="GridCell.Tab.0.right/56.23.1992.1257@56.23.1992.1257" timestamp="1597565178639" />
+    <state width="1325" height="282" key="GridCell.Tab.0.left/0.0.2048.1280@0.0.2048.1280" timestamp="1598109271892" />
+    <state width="1878" height="282" key="GridCell.Tab.0.left/1792.63.1920.1057/56.23.1736.1097@1792.63.1920.1057" timestamp="1598018060450" />
+    <state width="1950" height="282" key="GridCell.Tab.0.left/56.23.1992.1257@56.23.1992.1257" timestamp="1598116553652" />
+    <state width="1950" height="282" key="GridCell.Tab.0.right" timestamp="1598116553653">
+      <screen x="56" y="23" width="1992" height="1257" />
+    </state>
+    <state width="1325" height="282" key="GridCell.Tab.0.right/0.0.2048.1280@0.0.2048.1280" timestamp="1598109271893" />
+    <state width="1878" height="282" key="GridCell.Tab.0.right/1792.63.1920.1057/56.23.1736.1097@1792.63.1920.1057" timestamp="1598018060451" />
+    <state width="1950" height="282" key="GridCell.Tab.0.right/56.23.1992.1257@56.23.1992.1257" timestamp="1598116553653" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>scala-sdk-2.11.12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>JavaStudy</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
