@@ -37,22 +37,23 @@ public class TransformingStreamDemo {
         TransformingStreamDemo streamDemo = new TransformingStreamDemo();
         Long beginTime, endTime;
 
-        streamDemo.toUpperCase(Mono.just("sawfaefg")).subscribe(System.out::println);
+        /*streamDemo.toUpperCase(Mono.just("sawfaefg")).subscribe(System.out::println);
 
         Mono<String> unitblock = Mono.just("sasd");
         String strgetfromMono = unitblock.map(e->{return e.toUpperCase();}).block();
-        System.out.println("strgetfromMono: " + strgetfromMono);
+        System.out.println("strgetfromMono: " + strgetfromMono);*/
 
         beginTime = System.nanoTime();
         Flux<String> flux1 = streamDemo.toUpperCaseFlux(Flux.just("alice","ben","bush","christ","ego","father","go","hello"));
-        System.out.println(System.nanoTime() - beginTime);
-        //flux1.subscribe(System.out::println);
+        System.out.println("串行的：" + String.valueOf((System.nanoTime() - beginTime)));
+        flux1.subscribe(System.out::print);
 
         beginTime = System.nanoTime();
         Flux<String> flux2 = streamDemo.asyncToUpperCase(Flux.just("alice","ben","bush","christ","ego","father","go","hello"));
-        System.out.println("并行化："+String.valueOf(System.nanoTime() - beginTime));
-        //flux2.subscribe(System.out::println);
+        System.out.println("并行化：" + String.valueOf((System.nanoTime() - beginTime)));
+        flux2.subscribe(System.out::print);
 
+        /*
         beginTime = System.nanoTime();
         Iterable<String> flux2sync = flux2.toIterable();
         System.out.println("并行串行化："+String.valueOf(System.nanoTime() - beginTime));
@@ -69,7 +70,7 @@ public class TransformingStreamDemo {
         streamDemo.combine(flux3, flux4);
         System.out.println(System.nanoTime() - beginTime);
 
-        streamDemo.provideFallbackStreamForError(Flux.just("asd")).subscribe(System.out::println);
-
+        //streamDemo.provideFallbackStreamForError(Flux.just("asd")).subscribe(System.out::println);
+        */
     }
 }
