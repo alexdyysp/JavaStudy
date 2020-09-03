@@ -43,7 +43,6 @@
             <version>19.0</version>
         </dependency>
 
-
         <!--项目要使用到junit的jar包，所以在这里添加junit的jar包的依赖-->
         <dependency>
             <groupId>junit</groupId>
