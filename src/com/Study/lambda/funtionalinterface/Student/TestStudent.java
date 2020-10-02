@@ -8,7 +8,7 @@ import java.util.function.Predicate;
 import java.util.function.Supplier;
 
 import com.sun.tools.javac.util.Assert;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 
 /**
